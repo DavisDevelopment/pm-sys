@@ -1,0 +1,15 @@
+{
+    "name": "pm-sys",
+    "version": "0.0.1",
+    "description": "haxe 'sys' toolkit",
+    "license": "MIT",
+    "contributors": [
+        "DavisDevelopment"
+    ],
+    "dependencies": {
+        "pm-core": "latest"
+    },
+    "releasenote": "Initial release",
+    "url": "http://github.com/DavisDevelopment/pm-sys",
+    "tags": [ ]
+}
